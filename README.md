@@ -137,3 +137,4 @@
 10. **LedgerEntry**:
     - Connected to:
       - Ledger: Through the next pointer, forming a linked list of ledger entries.
+      - 
