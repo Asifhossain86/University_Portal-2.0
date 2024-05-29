@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1715168492 source:d:\backup\ewu_portal\main.c
+	"Portal_Headers.h"
+
+1714154189 d:\backup\ewu_portal\portal_headers.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1716641467 source:c:\users\asif\downloads\compressed\ewu_portal-20240528t152755z-001\ewu_portal\main.c
+	"Portal_Headers.h"
+
+1716641594 c:\users\asif\downloads\compressed\ewu_portal-20240528t152755z-001\ewu_portal\portal_headers.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
